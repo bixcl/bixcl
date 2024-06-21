@@ -1,10 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/6a/98/856a986897ed8207d9284074ca8f2f68.gif">
 <h1 align="center">Hi 👋, I'm Ali Sulaiman</h1>
-<h3 align="center">Just a man want to learn everything.</h3>
 
 <p align="left"> <a href="https://twitter.com/ialibxl" target="blank"><img src="https://img.shields.io/twitter/follow/ialibxl?logo=twitter&style=for-the-badge" alt="ialibxl" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **CyberSec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
