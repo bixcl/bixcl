@@ -1,17 +1,16 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/6a/98/856a986897ed8207d9284074ca8f2f68.gif">
 <h1 align="center">Hi 👋, I'm Ali Sulaiman</h1>
-
+<!--
 <p align="left"> <a href="https://twitter.com/ialibxl" target="blank"><img src="https://img.shields.io/twitter/follow/ialibxl?logo=twitter&style=for-the-badge" alt="ialibxl" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **CyberSec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ialibxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ialibxl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali sulaiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali sulaiman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bixcl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali sulaiman" height="30" width="40" /></a>
 <a href="https://instagram.com/bixcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bixcl" height="30" width="40" /></a>
-<a href="https://www.behance.net/ali sulaiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ali sulaiman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bixcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bixcl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bixcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bixcl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
